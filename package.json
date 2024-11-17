@@ -1,5 +1,4 @@
 {
-  "homepage": "https://AshuGoel2810.github.io/store",
   "name": "ecommerce",
   "version": "0.1.0",
   "private": true,
@@ -29,7 +28,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "update-browserslist": "npx update-browserslist-db@latest --update-db"
   },
   "eslintConfig": {
     "extends": [
